@@ -1,5 +1,36 @@
-template-repository (1.0-1) unstable; urgency=medium
+haskell-onetuple (0.3.1-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Clint Adams <clint@debian.org>  Thu, 16 Jun 2022 20:08:59 -0400
+
+haskell-onetuple (0.2.2.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Mon, 01 Jun 2020 19:02:55 -0400
+
+haskell-onetuple (0.2.2-3) unstable; urgency=medium
+
+  * Patch for newer deps
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 23 Aug 2019 15:02:07 +0200
+
+haskell-onetuple (0.2.2-2) unstable; urgency=medium
+
+  * Bump debhelper compat level to 10
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sun, 30 Sep 2018 21:16:37 +0300
+
+haskell-onetuple (0.2.2-1) unstable; urgency=medium
+
+  * Set Rules-Requires-Root to no.
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Tue, 03 Jul 2018 21:54:46 -0400
+
+haskell-onetuple (0.2.1-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Clint Adams <clint@debian.org>  Mon, 16 Apr 2018 21:11:15 -0400
